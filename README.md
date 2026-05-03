@@ -6,7 +6,7 @@
 - 🛡️ Passionate about offensive security and ethical hacking
 - 🔍 Focus areas: Web Application Security, Network Pentesting, Red Team Operations
 - 📚 Constantly learning and sharing knowledge with the community
-- 🏆 [Certifications: OSCP+, CRTA, AD-RTS and HTB Pro Labs]
+- 🏆 [Certifications: OSCP+ | CAPenX | CWES | CAPen | CRTA | AD-RTS | CSEDP]
 
 ### 🛠️ Technical Skills
 **Languages:** Python, Go, Bash, PowerShell  
