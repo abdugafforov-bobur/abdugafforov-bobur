@@ -22,8 +22,8 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 | CVE | Product | Class | Severity |
 |-----|---------|-------|:--------:|
-| **[CVE-2026-55743](https://dbugs.ptsecurity.com/vulnerability/PT-2026-50447)** | OpenHuman Desktop Agent `< 0.56.0` | Remote Code Execution (CWE-78) | `9.6 Critical` |
-| **[CVE-2026-54415](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Azuriom CMS `< 1.2.11` | Broken Access Control → Account Takeover (CWE-862) | `8.1 High` |
+| **[CVE-2026-55743](https://dbugs.ptsecurity.com/vulnerability/PT-2026-50447)** | OpenHuman Desktop Agent | Remote Code Execution (CWE-78) | `9.6 Critical` |
+| **[CVE-2026-54415](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Azuriom CMS | Broken Access Control → Account Takeover (CWE-862) | `8.1 High` |
 
 ---
 
