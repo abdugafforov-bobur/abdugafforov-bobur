@@ -67,16 +67,3 @@ Offensive security specialist focused on **Web Application Security**, **Network
 ![CRTA](https://img.shields.io/badge/CRTA-0B3D91?style=flat-square)
 ![AD-RTS](https://img.shields.io/badge/AD--RTS-0B3D91?style=flat-square)
 ![CSEDP](https://img.shields.io/badge/CSEDP-0B3D91?style=flat-square)
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdugafforov-bobur&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3C3C&icon_color=FF3C3C&text_color=c9d1d9" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdugafforov-bobur&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF3C3C&text_color=c9d1d9" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdugafforov-bobur&hide_border=true&background=0D1117&stroke=30363d&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FF3C3C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak">
-</p>
