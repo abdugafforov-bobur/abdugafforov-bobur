@@ -20,7 +20,6 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 - **Founder** — [Mahadsec](https://mahadsec.com/), a cybersecurity training & consulting firm
 - **Cybersecurity Instructor** — Haad TC
-- **Based in** — Tashkent, Uzbekistan
 
 ---
 
