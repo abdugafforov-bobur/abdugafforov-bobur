@@ -16,11 +16,13 @@
 
 ### `whoami`
 
-Offensive security specialist focused on **Web Application Security**, **Network Penetration Testing**, and **Red Team Operations**. I find and responsibly disclose vulnerabilities, build proof-of-concept exploits, and teach the craft as a cybersecurity instructor at **Haad LC** — based in Tashkent, Uzbekistan.
+Offensive security specialist focused on **Web Application Security**, **Network Penetration Testing**, and **Red Team Operations**. I find and responsibly disclose vulnerabilities, build proof-of-concept exploits, and teach the craft. Founder of **[Mahadsec](https://mahadsec.com/)** — a cybersecurity training & consulting firm — and cybersecurity instructor at **Haad TC**. Based in Tashkent, Uzbekistan.
 
 ```python
 bobur = {
-    "role":     ["Penetration Tester", "Security Researcher", "Instructor"],
+    "role":     ["Penetration Tester", "Security Researcher"],
+    "founder":  "Mahadsec — cybersecurity training & consulting",
+    "teaching": "Cybersecurity Instructor @ Haad TC",
     "focus":    ["Web AppSec", "Network Pentest", "Red Team", "CVE Research"],
     "certs":    ["OSCP+", "CAPenX", "CWES", "CAPen", "CRTA", "AD-RTS", "CSEDP"],
     "motto":    "Can the attacker do this RIGHT NOW?",
