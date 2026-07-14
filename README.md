@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://mahadsec.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF3C3C&center=true&vCenter=true&width=800&height=55&lines=Bobur+Abdugafforov;Penetration+Tester+%7C+Security+Researcher;Break+it.+Prove+it.+Report+it." alt="Bobur Abdugafforov">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF3C3C&center=true&vCenter=true&width=800&height=55&lines=Bobur+Abdugafforov;Penetration+Tester+%7C+Security+Researcher;Founder+of+Mahadsec" alt="Bobur Abdugafforov">
   </a>
 </p>
 
@@ -84,7 +84,3 @@ Offensive security specialist focused on **Web Application Security**, **Network
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdugafforov-bobur&hide_border=true&background=0D1117&stroke=30363d&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FF3C3C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak">
 </p>
-
----
-
-<p align="center"><i>Break it. Prove it. Report it.</i></p>
