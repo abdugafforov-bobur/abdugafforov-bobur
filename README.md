@@ -32,15 +32,6 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 ---
 
-### Featured Work
-
-| Project | Description | |
-|---------|-------------|---|
-| **[CVE-2026-54415-PoC](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Working PoC for CVE-2026-54415 — Azuriom CMS broken access control → account takeover | ![Stars](https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-54415-PoC?style=flat-square&color=FF3C3C&labelColor=0D1117&logo=github) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[hackerone-mcp](https://github.com/abdugafforov-bobur/hackerone-mcp)** | MCP server connecting Claude to the HackerOne Hacker API — programs, scope, reports, hacktivity, payouts | ![Stars](https://img.shields.io/github/stars/abdugafforov-bobur/hackerone-mcp?style=flat-square&color=FF3C3C&labelColor=0D1117&logo=github) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
-
 ### Arsenal
 
 **Languages**  
