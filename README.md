@@ -1,20 +1,31 @@
-<h1 align="center">Bobur Abdugafforov</h1>
-
+<!-- Header -->
 <p align="center">
-  Penetration Tester &nbsp;·&nbsp; Security Researcher &nbsp;·&nbsp; Cybersecurity Instructor
+  <a href="https://mahadsec.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF3C3C&center=true&vCenter=true&width=800&height=55&lines=Bobur+Abdugafforov;Penetration+Tester+%7C+Security+Researcher;Break+it.+Prove+it.+Report+it." alt="Bobur Abdugafforov">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bobur-abdugafforov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/mrabdugafforov"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://mahadsec.com/"><img src="https://img.shields.io/badge/mahadsec.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <img src="https://komarev.com/ghpvc/?username=abdugafforov-bobur&style=for-the-badge&color=FF3C3C&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
 
-### About
+### `whoami`
 
-Offensive security specialist focused on **Web Application Security**, **Network Penetration Testing**, and **Red Team Operations**. I find and responsibly disclose vulnerabilities, build proof-of-concept exploits, and teach the craft as a cybersecurity instructor.
+Offensive security specialist focused on **Web Application Security**, **Network Penetration Testing**, and **Red Team Operations**. I find and responsibly disclose vulnerabilities, build proof-of-concept exploits, and teach the craft as a cybersecurity instructor at **Haad LC** — based in Tashkent, Uzbekistan.
+
+```python
+bobur = {
+    "role":     ["Penetration Tester", "Security Researcher", "Instructor"],
+    "focus":    ["Web AppSec", "Network Pentest", "Red Team", "CVE Research"],
+    "certs":    ["OSCP+", "CAPenX", "CWES", "CAPen", "CRTA", "AD-RTS", "CSEDP"],
+    "motto":    "Can the attacker do this RIGHT NOW?",
+}
+```
 
 ---
 
@@ -27,21 +38,20 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 ---
 
-### Certifications
+### Featured Work
 
-<p>
-  <img src="https://img.shields.io/badge/OSCP%2B-990000?style=flat-square&logoColor=white" alt="OSCP+">
-  <img src="https://img.shields.io/badge/CAPenX-0B3D91?style=flat-square" alt="CAPenX">
-  <img src="https://img.shields.io/badge/CWES-0B3D91?style=flat-square" alt="CWES">
-  <img src="https://img.shields.io/badge/CAPen-0B3D91?style=flat-square" alt="CAPen">
-  <img src="https://img.shields.io/badge/CRTA-0B3D91?style=flat-square" alt="CRTA">
-  <img src="https://img.shields.io/badge/AD--RTS-0B3D91?style=flat-square" alt="AD-RTS">
-  <img src="https://img.shields.io/badge/CSEDP-0B3D91?style=flat-square" alt="CSEDP">
+<p align="center">
+  <a href="https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdugafforov-bobur&repo=CVE-2026-54415-PoC&bg_color=0D1117&title_color=FF3C3C&icon_color=FF3C3C&text_color=c9d1d9&border_color=30363d" alt="CVE-2026-54415-PoC">
+  </a>
+  <a href="https://github.com/abdugafforov-bobur/hackerone-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdugafforov-bobur&repo=hackerone-mcp&bg_color=0D1117&title_color=FF3C3C&icon_color=FF3C3C&text_color=c9d1d9&border_color=30363d" alt="hackerone-mcp">
+  </a>
 </p>
 
 ---
 
-### Technical Skills
+### Arsenal
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,6 +68,28 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 **Focus Areas**  
 `OWASP Top 10` &nbsp; `Active Directory Attacks` &nbsp; `API Security` &nbsp; `Source-Code Audit` &nbsp; `CVE Research`
+
+**Certifications**  
+![OSCP+](https://img.shields.io/badge/OSCP%2B-990000?style=flat-square&logoColor=white)
+![CAPenX](https://img.shields.io/badge/CAPenX-0B3D91?style=flat-square)
+![CWES](https://img.shields.io/badge/CWES-0B3D91?style=flat-square)
+![CAPen](https://img.shields.io/badge/CAPen-0B3D91?style=flat-square)
+![CRTA](https://img.shields.io/badge/CRTA-0B3D91?style=flat-square)
+![AD-RTS](https://img.shields.io/badge/AD--RTS-0B3D91?style=flat-square)
+![CSEDP](https://img.shields.io/badge/CSEDP-0B3D91?style=flat-square)
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdugafforov-bobur&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3C3C&icon_color=FF3C3C&text_color=c9d1d9" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdugafforov-bobur&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF3C3C&text_color=c9d1d9" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdugafforov-bobur&hide_border=true&background=0D1117&stroke=30363d&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FF3C3C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak">
+</p>
 
 ---
 
