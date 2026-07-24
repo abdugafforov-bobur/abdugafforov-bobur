@@ -29,6 +29,7 @@ Offensive security specialist focused on **Web Application Security**, **Network
 |-----|---------|-------|:--------:|
 | **[CVE-2026-55743](https://dbugs.ptsecurity.com/vulnerability/PT-2026-50447)** | OpenHuman Desktop Agent | Remote Code Execution (CWE-78) | `9.6 Critical` |
 | **[CVE-2026-54415](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Azuriom CMS | Broken Access Control → Account Takeover (CWE-862) | `8.1 High` |
+| **[CVE-2026-65694](https://github.com/microweber/microweber/pull/1181)** | Microweber CMS | Path Traversal → Unauthenticated Arbitrary File Read (CWE-22) | `7.5 High` |
 
 ---
 
