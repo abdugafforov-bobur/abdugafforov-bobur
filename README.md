@@ -25,7 +25,7 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 ### Published CVEs
 
-**13 published CVEs**, credited as finder. Severity is the CVSS v3.1 base score as published in the CVE record.
+**14 published CVEs**, credited as finder. Severity is the CVSS v3.1 base score as published in the CVE record.
 
 | CVE | Product | Class | Severity |
 |-----|---------|-------|:--------:|
@@ -35,6 +35,7 @@ Offensive security specialist focused on **Web Application Security**, **Network
 | **[CVE‑2026‑71242](https://www.cve.org/CVERecord?id=CVE-2026-71242)** | Crater | Cross-Company IDOR on Notes (CWE-639) | `8.2 High` |
 | **[CVE‑2026‑54415](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Azuriom CMS | Broken Access Control → Account Takeover (CWE-862) | `8.1 High` |
 | **[CVE‑2026‑54418](https://www.cve.org/CVERecord?id=CVE-2026-54418)** | Leantime | Missing Authorization → 2FA Secret Disclosure & Bypass (CWE-862) | `8.1 High` |
+| **[CVE‑2026‑67620](https://github.com/abdugafforov-bobur/CVE-2026-67620-poc)** | Flowise | SSRF via Incomplete Cloud-Metadata Deny-List (CWE-918) | `7.7 High` |
 | **[CVE‑2026‑65694](https://github.com/microweber/microweber/pull/1181)** | Microweber CMS | Path Traversal → Unauthenticated Arbitrary File Read (CWE-22) | `7.5 High` |
 | **[CVE‑2026‑71245](https://www.cve.org/CVERecord?id=CVE-2026-71245)** | Mautic | SQL Injection via Lead-by-Field-Value Endpoint (CWE-89) | `7.1 High` |
 | **[CVE‑2026‑71244](https://www.cve.org/CVERecord?id=CVE-2026-71244)** | Paperless-ngx | SSRF → Stored IMAP/OAuth Credential Leak (CWE-918) | `6.5 Medium` |
