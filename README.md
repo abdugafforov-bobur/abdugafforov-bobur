@@ -25,11 +25,23 @@ Offensive security specialist focused on **Web Application Security**, **Network
 
 ### Published CVEs
 
+**13 published CVEs**, credited as finder. Severity is the CVSS v3.1 base score as published in the CVE record.
+
 | CVE | Product | Class | Severity |
 |-----|---------|-------|:--------:|
-| **[CVE‑2026‑55743](https://dbugs.ptsecurity.com/vulnerability/PT-2026-50447)** | OpenHuman Desktop Agent | Remote Code Execution (CWE-78) | `9.6 Critical` |
-| **[CVE‑2026‑54415](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Azuriom CMS | Broken Access Control → Account Takeover (CWE-862) | `8.1 High` |
-| **[CVE‑2026‑65694](https://github.com/microweber/microweber/pull/1181)** | Microweber CMS | Path Traversal → Unauthenticated Arbitrary File Read (CWE-22) | `7.5 High` |
+| **[CVE‑2026‑55743](https://dbugs.ptsecurity.com/vulnerability/PT-2026-50447)** | OpenHuman Desktop Agent | Remote Code Execution (CWE-78) | `9.6 Critical` |
+| **[CVE‑2026‑71236](https://www.cve.org/CVERecord?id=CVE-2026-71236)** | Grocy | Stored XSS via HTMLPurifier Output Double-Decode (CWE-79) | `8.7 High` |
+| **[CVE‑2026‑55739](https://www.cve.org/CVERecord?id=CVE-2026-55739)** | Crater | Cross-Company IDOR → Customer Data Theft & Deletion (CWE-639) | `8.2 High` |
+| **[CVE‑2026‑71242](https://www.cve.org/CVERecord?id=CVE-2026-71242)** | Crater | Cross-Company IDOR on Notes (CWE-639) | `8.2 High` |
+| **[CVE‑2026‑54415](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)** | Azuriom CMS | Broken Access Control → Account Takeover (CWE-862) | `8.1 High` |
+| **[CVE‑2026‑54418](https://www.cve.org/CVERecord?id=CVE-2026-54418)** | Leantime | Missing Authorization → 2FA Secret Disclosure & Bypass (CWE-862) | `8.1 High` |
+| **[CVE‑2026‑65694](https://github.com/microweber/microweber/pull/1181)** | Microweber CMS | Path Traversal → Unauthenticated Arbitrary File Read (CWE-22) | `7.5 High` |
+| **[CVE‑2026‑71245](https://www.cve.org/CVERecord?id=CVE-2026-71245)** | Mautic | SQL Injection via Lead-by-Field-Value Endpoint (CWE-89) | `7.1 High` |
+| **[CVE‑2026‑71244](https://www.cve.org/CVERecord?id=CVE-2026-71244)** | Paperless-ngx | SSRF → Stored IMAP/OAuth Credential Leak (CWE-918) | `6.5 Medium` |
+| **[CVE‑2026‑71247](https://www.cve.org/CVERecord?id=CVE-2026-71247)** | Documenso | Incorrect Authorization → Signature Forgery (CWE-863) | `6.5 Medium` |
+| **[CVE‑2026‑71251](https://www.cve.org/CVERecord?id=CVE-2026-71251)** | Akaunting | Cross-Company Media IDOR in Customer Portal (CWE-639) | `6.5 Medium` |
+| **[CVE‑2026‑71246](https://www.cve.org/CVERecord?id=CVE-2026-71246)** | Pixelfed | Authenticated SSRF via Remote URL Search (CWE-918) | `4.3 Medium` |
+| **[CVE‑2026‑71250](https://www.cve.org/CVERecord?id=CVE-2026-71250)** | Firefly III | SSRF via DNS Rebinding in Webhook URLs (CWE-918) | `4.3 Medium` |
 
 ---
 
